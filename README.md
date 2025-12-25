@@ -120,8 +120,3 @@ This project demonstrates an effective implementation of a real-time data pipeli
 
 you can watch the demo video <a href="https://www.youtube.com/watch?v=rVQFABynodw" target="_blank">here</a> 
 
-# Contacts
-For any inquiries or further information, please contact:
-- **Name:** Aymane Maghouti
-- **Email:** aymanemaghouti@gmail.com
-- **LinkedIn:** <a href="https://www.linkedin.com/in/aymane-maghouti/" target="_blank">Aymane Maghouti</a><br>
